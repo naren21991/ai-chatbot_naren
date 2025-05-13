@@ -1,0 +1,2 @@
+build:
+  setupScript: ./install-build-deps.sh
